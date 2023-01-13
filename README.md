@@ -1,4 +1,4 @@
-## Axelar and Ethers Examples
+## Axelar & Ethers Examples
 
 How to use the [AxelarJS SDK](https://docs.axelar.dev/dev/axelarjs-sdk/intro) and [Ethers.js](https://docs.ethers.org/v5/).
 
